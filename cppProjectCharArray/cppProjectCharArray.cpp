@@ -103,6 +103,7 @@ int main(){
   cout << tempS << endl;
   cout << stringLength(tempS) << endl; // this gives the numbers of characters in the string
   cout << sizeof(str2) << endl; // this just gives the occuputation of char [] in memory. 
+  cout << strlen(str2) << endl; 
 
 	return 0;
 }
